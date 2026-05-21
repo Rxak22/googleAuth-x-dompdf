@@ -18,11 +18,13 @@ This project is a simple PHP application that implements **Google OAuth2 login**
 
 ### Login Page
 
-![Login Page](image.png)
+<img width="1159" height="480" alt="Screenshot 2026-05-21 132432" src="https://github.com/user-attachments/assets/6694526a-1195-4797-b52a-cd2154c0b311" />
+
 
 ### Home Page
 
-![Home Page](<image(4).png>)
+<img width="1919" height="645" alt="Screenshot 2026-05-21 132703" src="https://github.com/user-attachments/assets/24acb69a-4fc0-4d24-942e-2b9e074186ea" />
+
 
 ---
 
