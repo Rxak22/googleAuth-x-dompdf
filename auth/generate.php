@@ -6,7 +6,7 @@ session_start();
 use Dompdf\Dompdf;
 use Dompdf\Options;
 
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__. '/../');
 $dotenv->load();
 
 $client = new Google\Client();

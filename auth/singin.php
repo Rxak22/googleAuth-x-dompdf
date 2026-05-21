@@ -2,7 +2,7 @@
 
 require_once '../vendor/autoload.php';
 
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__. '/../');
 $dotenv->load();
 
 $client = new Google\Client();
